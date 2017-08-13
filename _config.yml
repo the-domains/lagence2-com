@@ -1,0 +1,20 @@
+name: lagence2.com
+analytics: {}
+content_rating:
+  adult: false
+github: true
+description: web design à Sion
+opengraph: {}
+title: lagence2.com
+author: {}
+color:
+  lightness: 0.7383333327570775
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  saturation: 0.1887220426436332
+  brandStrength: 0.02775950707210216
+  rhythmicContrast: 0.1282637638804185
