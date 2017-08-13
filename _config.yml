@@ -6,7 +6,10 @@ github: true
 description: web design à Sion
 opengraph: {}
 title: lagence2.com
-author: {}
+author:
+  name: Erwann
+  url: www.lagence2.com
+  email: ed@lagence2.com
 color:
   lightness: 0.7383333327570775
   brandColors:
