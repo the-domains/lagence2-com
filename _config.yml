@@ -39,7 +39,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -47,3 +46,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.5
+typography_spectrum: 0.5
+purpose:
+  - type: contact
+    url: 'mailto:ed@lagence2.com'
+    label: Demandez votre devis !
