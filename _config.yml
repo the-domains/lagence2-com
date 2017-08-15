@@ -54,5 +54,4 @@ purpose:
   - type: contact
     url: 'mailto:ed@lagence2.com'
     label: Demandez votre devis !
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dcfe17d-c993-48b5-b7ba-ca48f9ec9d63.png
+logo: null
