@@ -28,6 +28,9 @@ navigation:
   - name: À propos
     id: 2389b0dd-54fc-4993-be10-e13cd0e590b3
     type: content
+  - name: Contact
+    id: b0a326f0-4d6e-4460-bf4d-50bd48d5313c
+    type: content
 title: lagence2.com
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
