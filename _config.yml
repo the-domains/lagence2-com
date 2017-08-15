@@ -1,17 +1,6 @@
-name: lagence2.com
-analytics:
-  google: UA-56034361-1
+typography_spectrum: 0.5
 content_rating:
   adult: false
-github: true
-description: web design à Sion
-opengraph:
-  appId: ''
-title: lagence2.com
-author:
-  name: Erwann
-  url: www.lagence2.com
-  email: ed@lagence2.com
 color:
   lightness: 0.7383333327570775
   brandColors:
@@ -23,6 +12,23 @@ color:
   saturation: 0.1887220426436332
   brandStrength: 0.02775950707210216
   rhythmicContrast: 0.1282637638804185
+github: true
+opengraph:
+  appId: ''
+layout_spectrum: 0.5
+analytics:
+  google: UA-56034361-1
+author:
+  name: Erwann
+  url: www.lagence2.com
+  email: ed@lagence2.com
+logo: null
+name: lagence2.com
+navigation:
+  - name: À propos
+    id: 2389b0dd-54fc-4993-be10-e13cd0e590b3
+    type: content
+title: lagence2.com
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -32,26 +38,24 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4c5152c-2a80-453a-9153-78a1081524e6.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.5
-typography_spectrum: 0.5
+description: web design à Sion
 purpose:
   - type: contact
     url: 'mailto:ed@lagence2.com'
     label: Demandez votre devis !
-logo: null
