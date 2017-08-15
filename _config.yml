@@ -59,3 +59,6 @@ purpose:
   - type: contact
     url: 'mailto:ed@lagence2.com'
     label: Demandez votre devis !
+  - type: contact
+    url: 'tel:0041768012609'
+    label: Appelez-nous !
