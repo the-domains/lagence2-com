@@ -61,7 +61,7 @@ description: web design à Sion
 purpose:
   - type: contact
     url: 'mailto:ed@lagence2.com'
-    label: Contact
+    label: Email
   - type: contact
     url: 'tel:0041768012609'
     label: Appel
