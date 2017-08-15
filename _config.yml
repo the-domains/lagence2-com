@@ -23,31 +23,7 @@ color:
   saturation: 0.1887220426436332
   brandStrength: 0.02775950707210216
   rhythmicContrast: 0.1282637638804185
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa2a9d87-28d7-47eb-beae-e8f2f7eae661.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa2a9d87-28d7-47eb-beae-e8f2f7eae661.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 layout_spectrum: 0.5
 typography_spectrum: 0.5
 purpose:
